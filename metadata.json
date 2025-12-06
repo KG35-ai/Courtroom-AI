@@ -1,0 +1,5 @@
+{
+  "name": "Courtroom AI",
+  "description": "An advanced legal assistant powered by Gemini. Features intelligent case analysis, precedent research with grounding, mock trial simulations, and legal argument generation.",
+  "requestFramePermissions": []
+}
